@@ -6,7 +6,9 @@
         <h3>자기 소개</h3>
             이름: 변정근 <br>
             관심분야: 과학기술 <br>
-            희망직업: 경찰 <br>   
+            희망직업: 경찰 <br> 
+          <img src='https://c.wallhere.com/photos/31/5e/animals_cats-2172381.jpg!d'><br>이미지출처: 사진 <br>
+             
 
         <h3>내가 모은 신문기사</h3>
     </body>
